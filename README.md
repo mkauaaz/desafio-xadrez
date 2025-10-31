@@ -1,3 +1,5 @@
+Aluno: Kauã de Melo Curso: Ciência da Computação (CCO) Faculdade: Estácio Semestre: 1º Disciplina: Desafio Lógica Super Trunfo Desafio: Desenvolvimento de um jogo Super Trunfo Países
+
 Este projeto tem como objetivo praticar o uso das estruturas de repetição for, while e do-while por meio da simulação de movimentos de peças de xadrez. O programa em C mostra, passo a passo, os deslocamentos da Torre, Bispo e Rainha, imprimindo no console a direção de cada movimento.
 
 
